@@ -19,6 +19,10 @@ A modern weather application built with Next.js, TypeScript, and Tailwind CSS th
 - OpenWeather API
 - React Icons
 
+## Live Demo
+
+Visit the live demo at: [Weather Man](https://weather-qyaypn1xc-cees-projects-eabc4959.vercel.app/)
+
 ## Getting Started
 
 1. Clone the repository:
@@ -54,4 +58,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details. 
+This project is licensed under the MIT License - see the LICENSE file for details.
